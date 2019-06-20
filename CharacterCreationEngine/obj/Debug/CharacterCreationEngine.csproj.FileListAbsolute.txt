@@ -1,0 +1,33 @@
+D:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.dll
+D:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.pdb
+D:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.csprojAssemblyReference.cache
+D:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.csproj.CoreCompileInputs.cache
+D:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.dll
+D:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.pdb
+G:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.dll
+G:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.pdb
+G:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.csproj.CoreCompileInputs.cache
+G:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.dll
+G:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.pdb
+G:\School\C# Programming II\FINAL II\Rebuild\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.csprojAssemblyReference.cache
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.dll
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.pdb
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.csproj.CoreCompileInputs.cache
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.dll
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.pdb
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.dll
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.pdb
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.csproj.CoreCompileInputs.cache
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.dll
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.pdb
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.dll
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.pdb
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.csprojAssemblyReference.cache
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.csproj.CoreCompileInputs.cache
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.dll
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.pdb
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.dll
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\bin\Debug\CharacterCreationEngine.pdb
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.csproj.CoreCompileInputs.cache
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.dll
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreationEngine\obj\Debug\CharacterCreationEngine.pdb

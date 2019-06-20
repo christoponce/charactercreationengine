@@ -1,0 +1,72 @@
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.exe.config
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.exe
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.pdb
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csprojAssemblyReference.cache
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.Properties.Resources.resources
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.GenerateResource.cache
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.CoreCompileInputs.cache
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.exe
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.pdb
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.MainCreatorForm.resources
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.CreatorStartupForm.resources
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csprojAssemblyReference.cache
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.CreatorStartupForm.resources
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.MainCreatorForm.resources
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.Properties.Resources.resources
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.GenerateResource.cache
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.CoreCompileInputs.cache
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.exe
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.pdb
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.exe.config
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.exe
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.pdb
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreationEngine.dll
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreationEngine.pdb
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.CopyComplete
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreationEngine.dll
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreationEngine.pdb
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.CopyComplete
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.StatsForm.resources
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.StatsForm.resources
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.ProficienciesForm.resources
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.EquipmentForm.resources
+D:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.SkillsForm.resources
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.EquipmentForm.resources
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.ProficienciesForm.resources
+G:\School\C# Programming II\FINAL II\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.SkillsForm.resources
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.exe.config
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.exe
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.pdb
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreationEngine.dll
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreationEngine.pdb
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csprojAssemblyReference.cache
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.CreatorStartupForm.resources
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.EquipmentForm.resources
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.MainCreatorForm.resources
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.ProficienciesForm.resources
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.Properties.Resources.resources
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.SkillsForm.resources
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.StatsForm.resources
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.GenerateResource.cache
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.CoreCompileInputs.cache
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.CopyComplete
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.exe
+D:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.pdb
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.exe.config
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.exe
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreatorGUI.pdb
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreationEngine.dll
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\bin\Debug\CharacterCreationEngine.pdb
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csprojAssemblyReference.cache
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.CreatorStartupForm.resources
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.EquipmentForm.resources
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.MainCreatorForm.resources
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.ProficienciesForm.resources
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.Properties.Resources.resources
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.SkillsForm.resources
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.StatsForm.resources
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.GenerateResource.cache
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.CoreCompileInputs.cache
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.csproj.CopyComplete
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.exe
+I:\School\C# Projects\Project 2 - Character Creation Engine\CharacterCreationEngine\CharacterCreatorGUI\obj\Debug\CharacterCreatorGUI.pdb
